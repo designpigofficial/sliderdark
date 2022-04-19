@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic);
-@import url(http://fonts.googleapis.com/css?family=Satisfy);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
 
 
 
@@ -370,7 +370,7 @@ body.royal_loader {
 .cbp-af-header.cbp-af-header-shrink ul.slimmenu li:first-child {
 	background:none;
 }
-.cbp-af-header.cbp-af-header-shrink ul.slimmenu li ul li:first-child { 
+.cbp-af-header.cbp-af-header-shrink ul.slimmenu li ul li:first-child {
 	background:none; }
 ul.slimmenu li ul li a {
     color: #fff;
@@ -627,7 +627,7 @@ ul.slimmenu.collapsed li > ul {
 	margin-top:70px;
 	width:100%;
 	color:#fff;
-	font-family: 'Satisfy', cursive;
+	font-family: 'Raleway', cursive;
 	text-shadow: 0 0 5px rgba(0,0,0,0.1);
 	text-align:center;
 	font-size: 20px; 
@@ -1998,7 +1998,7 @@ top: 0;
 }   
 #link-work a {
 	position: relative;
-	font-family: 'Satisfy', cursive;
+	font-family: 'Raleway', cursive;
 	display: inline-block;
 	outline: none;
 	text-align:center;
@@ -2526,7 +2526,7 @@ html[xmlns] .slides {display: block;}
  .plans-offer-gold a,
  .plans-offer a {
 	position: relative;
-	font-family: 'Satisfy', cursive;
+	font-family: 'Raleway', cursive;
 	display: inline-block;
 	outline: none;
 	text-align:center;
