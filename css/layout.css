@@ -603,22 +603,23 @@ ul.slimmenu.collapsed li > ul {
 .big-text { 
 	position: absolute; 
 	left:0;
-	top:50%;
+	top:40%;
 	margin-top:-25px;
 	width:100%;
-	font-family: 'Sifonn-Basic';
+	font-family: 'Open Sans', sans-serif;
 	text-shadow: 0 0 15px rgba(0,0,0,0.6);
 	text-transform:uppercase;
 	text-align:center;
-	font-size: 60px; 
-	line-height:60px;
+	font-size: 50px; 
+	line-height:50px;
 	z-index: 200; 
 }
 .big-text span{ 
 	padding-top:15px;
 	padding-bottom:25px;
-	border-top:1px solid #fff;
-	border-bottom:1px solid #fff;
+}
+
+.big-text span img {
 }
 .small-text { 
 	position: absolute;
@@ -754,7 +755,7 @@ top: 0;
 	height:100%;
 	min-height: 150px;
 	color: #101010;
-	background: #909090;
+	background: #e0e0e0;
 	padding: 20px;
 	z-index:1;
 	-webkit-transition: all 300ms linear;
@@ -769,8 +770,8 @@ top: 0;
 	max-width: 250px;
 	height:100%;
 	min-height: 150px;
-	color: #909090;
-	background: #101010;
+	color: #101010;
+	background: #e0e0e0;
 	padding: 20px;
 	z-index:1;
 	-webkit-transition: all 300ms linear;
@@ -2738,17 +2739,17 @@ html[xmlns] .slides {display: block;}
 		font: 13px/22px 'Open Sans', sans-serif;
 		padding-top: 10px;
 		padding-bottom: 10px;
-	background:#292929;
+	background:#000;
 	}
 	textarea {
 		width:96%;
 		font: 13px/24px 'Open Sans', sans-serif;
-		height:22px;
+		height:116px;
 		margin-top:2px;
 		padding-top: 10px;
 		padding-bottom: 10px;
 		border:none;
-	background: #292929;
+	background: #000;
 	}
 	.error {
 		font: 10px/22px 'Open Sans', sans-serif;
