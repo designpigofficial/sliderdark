@@ -333,7 +333,7 @@ body.royal_loader {
 	height:45px;
 	background:url('../images/logos/logo1.png') no-repeat center center;
 	background-size:45px 45px;
-	top:15px;
+	top:17px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
 	-o-transition :all 0.5s ease-out;
@@ -341,11 +341,11 @@ body.royal_loader {
 }
 
 .cbp-af-header.cbp-af-header-shrink .logo2{
-	width:236px;
-	height:43px;
+	width:148px;
+	height:18px;
 	background:url('../images/logos/logo2.png') no-repeat center center;
-	background-size:236px 43px;
-	top:15px;
+	background-size:148px 18px;
+	top:29px;
 	left: 46px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
@@ -379,23 +379,23 @@ ul.slimmenu li ul {
 }
 .logo1{
 	position:absolute;
-	width:57px;
-	height:57px;
+	width:45px;
+	height:45px;
 	z-index:10000;
 	left:0;
-	top:15px;
+	top:27px;
 	background:url('../images/logos/logo1.png') no-repeat top left;
-	background-size:57px 57px;
+	background-size:45px 45px;
 }
 .logo2{
 	position:absolute;
-	width:258px;
-	height:57px;
+	width:148px;
+	height:18px;
 	z-index:10000;
-	left:58px;
-	top:15px;
+	left:46px;
+	top:40px;
 	background:url('../images/logos/logo2.png') no-repeat top left;
-	background-size:258px 57px;
+	background-size:148px 18px;
 }
 @media only screen  and (max-width : 570px) {
 	.logo2{
