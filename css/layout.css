@@ -987,13 +987,6 @@ ul.slimmenu.collapsed li > ul {
 
 
 
-.twenty-percent {
-	height: 20%;
-}
-.sixty-percent {
-	height: 60%;
-}
-
 #team{
 	position: relative; 
 	margin: 0 auto;
@@ -1005,6 +998,13 @@ ul.slimmenu.collapsed li > ul {
 	padding-bottom:60px;
 	z-index:2;
 } 
+.team .container {
+	display:flex;
+	flex-direction: column;
+	flex-wrap:wrap;
+}
+.team .container .four {
+margin:auto;}
 
 .team-wrap{
 	position: relative; 
