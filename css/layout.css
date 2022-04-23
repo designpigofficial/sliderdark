@@ -329,11 +329,11 @@ body.royal_loader {
 	background:rgba(60,60,60,1);
 }
 .cbp-af-header.cbp-af-header-shrink .logo1{
-	width:45px;
-	height:45px;
+	width:50px;
+	height:50px;
 	background:url('../images/logos/logo1.png') no-repeat center center;
-	background-size:45px 45px;
-	top:17px;
+	background-size:50px 50px;
+	top:12px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
 	-o-transition :all 0.5s ease-out;
@@ -341,12 +341,12 @@ body.royal_loader {
 }
 
 .cbp-af-header.cbp-af-header-shrink .logo2{
-	width:148px;
-	height:18px;
+	width:231px;
+	height:26px;
 	background:url('../images/logos/logo2.png') no-repeat center center;
-	background-size:148px 18px;
-	top:29px;
-	left: 46px;
+	background-size:231px 26px;
+	top:25px;
+	left: 55px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
 	-o-transition :all 0.5s ease-out;
@@ -379,35 +379,35 @@ ul.slimmenu li ul {
 }
 .logo1{
 	position:absolute;
-	width:45px;
-	height:45px;
+	width:80px;
+	height:80px;
 	z-index:10000;
 	left:0;
-	top:27px;
+	top:15px;
 	background:url('../images/logos/logo1.png') no-repeat top left;
-	background-size:45px 45px;
+	background-size:80px 80px;
 }
 .logo2{
 	position:absolute;
-	width:148px;
-	height:18px;
+	width:320px;
+	height:40px;
 	z-index:10000;
-	left:46px;
-	top:40px;
+	left:90px;
+	top:37px;
 	background:url('../images/logos/logo2.png') no-repeat top left;
-	background-size:148px 18px;
+	background-size:320px 40px;
 }
 @media only screen  and (max-width : 570px) {
 	.logo2{
 	display:none;
 }
 	.logo1 {
-		width: 45px;
-		height: 45px;
+		width: 40px;
+		height: 40px;
 		top: 25%;
 		bottom: 25%;
 		background:url('../images/logos/logo1.png') no-repeat top left;
-		background-size:45px 45px;
+		background-size:40px 40px;
 	}
 }
 .menu-collapser {
@@ -486,7 +486,7 @@ ul.slimmenu li a {
 	font-weight:700;
 	text-transform:uppercase;
     border-bottom:1px solid rgba(0,0,0,0);
-    font-size: 12px;
+    font-size: 15px;
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
